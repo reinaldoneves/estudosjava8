@@ -1,5 +1,8 @@
 package br.com.core;
 
+/***
+ * https://www.devmedia.com.br/como-usar-funcoes-lambda-em-java/32826
+ */
 public class Motor {
 
     public static void main(String[] args) {
