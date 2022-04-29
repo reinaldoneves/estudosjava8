@@ -3,7 +3,6 @@ package br.com.core;
 public class Motor {
 
     public static void main(String[] args) {
-
         Motor m = new Motor();
         m.ligar();
     }
